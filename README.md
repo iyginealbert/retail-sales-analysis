@@ -1,4 +1,4 @@
-# Retail Sales Analysis 📊
+# Retail Sales Analysis 
 
 A data analytics project using **Python, SQL, and Power BI** to understand retail sales, profit, customers, products, and regions.
 
@@ -36,7 +36,7 @@ It includes information about:
 * Discount
 * Date
 
-## 🔍 Analysis
+## Analysis
 
 ### Python
 
@@ -87,7 +87,7 @@ retail-sales-analysis/
 └── dashboard.mp4
 ```
 
-## 📌 Key Learning
+##  Key Learning
 
 This project helped me practice the complete Data Analyst workflow:
 
